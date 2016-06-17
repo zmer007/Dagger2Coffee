@@ -1,0 +1,40 @@
+@startuml
+
+interface Heater{
+    void on()
+    void off()
+    void isHot()
+}
+
+class ElectricHeater{
+    # boolean heating
+}
+
+Heater <|-- ElectricHeater
+
+interface Pump{
+    void pump()
+}
+
+class Thermosiphon{
+    - final Heater heater
+    @Inject Thermosiphon(Heater heater)
+}
+
+Pump <|-- Thermosiphon
+Heater +-- Thermosiphon
+
+class CoffeeMaker{
+    @Inject Heater heater
+    @Inject Pump pump
+
+    @Inject CoffeeMaker()
+    void brew()
+}
+
+Pump +- CoffeeMaker
+Heater +- CoffeeMaker
+
+
+
+@enduml

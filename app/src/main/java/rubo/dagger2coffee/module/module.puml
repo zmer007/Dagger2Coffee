@@ -1,0 +1,14 @@
+@startuml
+
+class DripCoffeeModule{
+    Heater provideheater()
+}
+
+class PumpModule{
+
+    Pump providePump(Thermosiphon pump)
+}
+
+Thermosiphon <-- PumpModule
+
+@enduml

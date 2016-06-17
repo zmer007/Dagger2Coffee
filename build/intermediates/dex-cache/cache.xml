@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_b831516f33fcf87ba29c240bd74a1bf1287a236b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_712f52306e87d4aa05e1d5869caa92b86ae84c24/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_754667c353a02ef73e3f5387258640425848ddf7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_f79d696e5bcb0430b61e1bf07162dbaa4d8575df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcd366774c9fa6e249b36b6e0342d41fb2dd24a6">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b6205bcd1de91d3db7923c0e77d3f639dac7f26c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.5/571f4e0451db64a7b41dbeb5f2503986fe5acdb4/dagger-2.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="571f4e0451db64a7b41dbeb5f2503986fe5acdb4">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.5_6cbd8d37b46125899891a8f9471ff4e0909f9951/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6fa5ec773a0dc687276dc89e3c62b83745757bb0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_8a4e2e4cb993615bb59ad5a48fac631e07e3d79b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c495b7d47d702f225fdb4caec1220dec58cbf7af">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_870c92cec0d6a80b93fbce9b126ebd0be8cc5a32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_a99a4b9369d94bc7fb58271ead8359f97bbc944d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/wxs/AndroidStudioProjects/Git/Dagger2Coffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_946e4bf0f545b42ad670dc156bb9b63ed34bfb1d/classes.dex" />
+    </item>
+
+</items>
